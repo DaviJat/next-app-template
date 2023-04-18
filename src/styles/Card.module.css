@@ -1,3 +1,6 @@
+/* Módulo CSS para o Card. O CSS Modules  define localmente o CSS criando automaticamente 
+um nome de classe exclusivo que não conflita com outros arquivos*/
+
 .card {
   background-color: blueviolet;
   display: flex;

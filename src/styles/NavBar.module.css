@@ -1,3 +1,6 @@
+/* Módulo CSS para a NavBar. O CSS Modules  define localmente o CSS criando automaticamente 
+um nome de classe exclusivo que não conflita com outros arquivos*/
+
 .navBar {
   background-color: #000866;
   display: flex;

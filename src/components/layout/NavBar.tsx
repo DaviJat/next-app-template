@@ -1,3 +1,8 @@
+// NavBar - Cabeçalho da página
+
+// O next disponibiliza um componente para renderizar imagem, eu achei pior de usar do que o <img>
+// do html, mas acho que é pq não estudeu o suficiente.
+
 import Image from 'next/image';
 
 import styles from '../../styles/NavBar.module.css';

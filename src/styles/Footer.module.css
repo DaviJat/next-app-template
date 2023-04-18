@@ -1,3 +1,6 @@
+/* Módulo CSS para o Footer. O CSS Modules  define localmente o CSS criando automaticamente 
+um nome de classe exclusivo que não conflita com outros arquivos*/
+
 .footer {
   background-color: #202124;
   position: fixed;
