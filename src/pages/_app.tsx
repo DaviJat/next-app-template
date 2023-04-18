@@ -9,11 +9,9 @@ import type { AppProps } from 'next/app';
 export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
-      <div>Início do body</div>
       <Layout>
         <Component {...pageProps} />
       </Layout>
-      <div>Final do body, o footer sobrepõe mas a div está lá, confia</div>
     </>
   );
 }
